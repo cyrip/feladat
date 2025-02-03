@@ -1,0 +1,5 @@
+ID,Name,Type,Other
+1,rou01,router,123
+2,swi01,switch,12
+3,batt01,battery,24
+4,mem01,memory,1024
